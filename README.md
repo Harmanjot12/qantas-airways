@@ -14,10 +14,14 @@ The program should allow staff to:<br>
       <li> The number of seats that are booked. </li>
       <li> The number of seats that are available.</li>
       <li> The number of passangers on flight that need halal meat.</li>
+    </ul>
   </li>
+  
   <li>
+    <ul>
        Customer and flight information must persist advance tasks 
       <li> Create a new flight.<li>
       <li> Full validation of all input<li>
-  </li>  
+    </ul> 
+ </li>  
 </ol>
