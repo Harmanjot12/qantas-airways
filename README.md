@@ -4,19 +4,20 @@ Q. Your program is used by the staff who work for an airline company, ex.Qantas 
 
 The program should allow staff to:<br>
 <ol>
-  <li>a) Create customer details (Name,contact information , address and customer code )</li>
-  <li>b) Ask weather customer want halal meat in thier meal(exs Muslim passangers )</li>
-  <li>c) Customer should be able to book seats on the flights, only one seat per customer.They may however book seats in different flights.</li>
+  <li> Create customer details (Name,contact information , address and customer code )</li>
+  <li> Ask weather customer want halal meat in thier meal(exs Muslim passangers )</li>
+  <li> Customer should be able to book seats on the flights, only one seat per customer.They may however book seats in different flights.</li>
   <li>
-    d) Summary information 
-      - The source and destination place.
-      - The number of seats that are booked. 
-      - The number of seats that are available.
-      - The number of passangers on flight that need halal meat.
+    <ul>
+       Summary information 
+      <li> The source and destination place. </li>
+      <li> The number of seats that are booked. </li>
+      <li> The number of seats that are available.</li>
+      <li> The number of passangers on flight that need halal meat.</li>
   </li>
   <li>
-    e) Customer and flight information must persist advance tasks 
-      - Create a new flight.
-      - Full validation of all input
+       Customer and flight information must persist advance tasks 
+      <li> Create a new flight.<li>
+      <li> Full validation of all input<li>
   </li>  
 </ol>
