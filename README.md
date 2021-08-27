@@ -9,7 +9,7 @@ The program should allow staff to:<br>
   <li> Customer should be able to book seats on the flights, only one seat per customer.They may however book seats in different flights.</li>
   <li>
     <ul>
-       Summary information 
+   Summary information 
       <li> The source and destination place. </li>
       <li> The number of seats that are booked. </li>
       <li> The number of seats that are available.</li>
@@ -19,9 +19,9 @@ The program should allow staff to:<br>
   
   <li>
     <ul>
-       Customer and flight information must persist advance tasks 
-      <li> Create a new flight.<li>
-      <li> Full validation of all input<li>
+   Customer and flight information must persist advance tasks 
+      <li> Create a new flight.</li>
+  <li> Full validation of all input</li>
     </ul> 
  </li>  
 </ol>
